@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Fraunces", ui-serif, Georgia, serif;
+  --color-stone-50: #f6f1e8;
+  --color-stone-100: #efe6da;
+  --color-stone-200: #e3d5c4;
+  --color-stone-300: #cbbba6;
+  --color-stone-500: #8d7360;
+  --color-stone-600: #6e5848;
+  --color-stone-700: #534233;
+  --color-stone-800: #3c2e23;
+  --color-stone-900: #241910;
+}
