@@ -4,6 +4,18 @@ Single-origin Indian coffee from Chikmagalur, Coorg, and Araku. Shoppers can bro
 
 Tagline: Grown in the mist. Roasted in small lots.
 
+## Live
+
+| | |
+| --- | --- |
+| Site | https://mistline-coffee-roasters.vercel.app |
+| API | https://mistline-coffee-roasters.onrender.com |
+| GitHub | https://github.com/sa7sh/Mistline-Coffee-Roasters |
+| Admin email | `admin@mistline.coffee` |
+| Admin password | `admin@123` |
+
+Sign in at https://mistline-coffee-roasters.vercel.app/admin/login.
+
 ## Pages
 
 | Address | What it shows |
